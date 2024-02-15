@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+transformers==4.35.2
+optimum
+auto-gptq
+datasets
+loralib
+bitsandbytes
+accelerate
+xformers
+einops
